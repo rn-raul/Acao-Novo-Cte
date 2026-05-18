@@ -12,3 +12,11 @@ A integração permite que, a partir dos dados fornecidos na tela de Controle de
 - **Integração HiveCloud**: Comunica-se com a API HiveCloud para processar a geração do CT-e
 - **Autenticação segura**: Utiliza Bearer Token e TenantId para autenticação
 - **Tratamento de respostas HTTP**: Gerencia respostas de sucesso e erro da API
+
+## 🏢 Projeto Desenvolvido
+
+Desenvolvido para **Semalo Indústria e Comércio de Alimentos** durante meu período como Desenvolvedor.
+
+## 👨‍💻 Autor
+
+- **Raul** - Desenvolvedor
